@@ -1,6 +1,6 @@
 # Личный проект «{{projectTitle}}»
 
-- Студент: [{{JT}}]({{htttps:\site.ru}}).
+- Студент: [{{JoTa}}]({{htttps:\site.ru}}).
 - Наставник: `John Taker`.
 
 ---
